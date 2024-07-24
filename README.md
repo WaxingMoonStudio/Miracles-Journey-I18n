@@ -143,6 +143,7 @@
 [Agriculture][ExtraDelight]✅
 [Agriculture][FarmersDelight]✅
 [Agriculture][FarmersRespite]✅
+[Agriculture][FarmingForBlockheads]❗
 [Agriculture][GalosphereDelight]✅
 [Agriculture][LetsDoBakery]✅
 [Agriculture][LetsDoCandlelight]✅
@@ -178,19 +179,26 @@
 辅助类 --- 143 / 143 | ✅：128 / ❗：8 / ❕：7 | 汉化率：**89.51**%
 
 ```
+[Assist][AdditionalPlacements]❕
 [Assist][AdvancementPlaques]✅
 [Assist][AiImprovements]✅
+[Assist][AlmostUnified]✅
 [Assist][AppleSkin]✅
 [Assist][ArmorStatues]✅
+[Assist][AttributeFix]✅
 [Assist][AxolotlBucketFix]✅
 [Assist][BetterAdvancements]✅
 [Assist][BetterDays]✅
 [Assist][BetterDogsXDoggyTalentsNext]✅
+[Assist][BetterF3]✅
 [Assist][BetterStatisticsScreen]✅
 [Assist][BetterThirdPerson]✅
+[Assist][BiomeInfo]✅
+[Assist][BlockLimitFix]✅
 [Assist][Catalogue]✅
 [Assist][ChatHeads]✅
 [Assist][CherishedWorlds]✅
+[Assist][ChunkSending]✅
 [Assist][CITReforged]✅
 [Assist][ClickableAdvancements]✅
 [Assist][Clumps]✅
@@ -198,10 +206,13 @@
 [Assist][Configured]❗
 [Assist][ContingameIME]✅
 [Assist][Controlling]✅
+[Assist][CreateTrainPerspective]❕
+[Assist][CrosshairBobbing]✅
 [Assist][CurioOfUndying]✅
 [Assist][CuriousElytra]✅
 [Assist][CustomSkinLoader]✅
 [Assist][DamageTilt]✅
+[Assist][DeathQuotes]✅
 [Assist][DespawnTweaker]✅
 [Assist][DirectionalDamageIndicator]✅
 [Assist][DrippyLoadingScreen]❗
@@ -211,6 +222,7 @@
 [Assist][ElytraPhysics]✅
 [Assist][Embeddium]✅
 [Assist][Embeddium++]✅
+[Assist][ExtraGore]✅
 [Assist][EnchantmentDescriptions]✅
 [Assist][EntityCollisionFpsFix]✅
 [Assist][EntityCulling]✅
@@ -234,6 +246,7 @@
 [Assist][InventoryHUD+]✅
 [Assist][Iris&OculusFlywheelCompat]✅
 [Assist][ItemHighlighter]✅
+[Assist][ItemPhysicLite]✅
 [Assist][ItemZoom]✅
 [Assist][Jade]❗
 [Assist][JadeAddons]❕
@@ -262,6 +275,7 @@
 [Assist][NotEnoughRecipeBook]✅
 [Assist][Oculus]✅
 [Assist][OculusParticleFix]✅
+[Assist][OpenPartiesAndClaims]❗
 [Assist][OverflowingBars]✅
 [Assist][PacketFixer]✅
 [Assist][ParCool]✅
@@ -270,11 +284,15 @@
 [Assist][PickUpNotifier]✅
 [Assist][PigPenCipher]✅
 [Assist][Polymorph]✅
+[Assist][Quit]✅
 [Assist][Raised]❕
+[Assist][RawsVisualKeybinder]✅
 [Assist][RefinedPolymorphism]✅
 [Assist][RefinedStorageRequestify]✅
+[Assist][RoadRunner]✅
 [Assist][RubidiumExtra]✅
 [Assist][Runelic]✅
+[Assist][ScreenshotViewer]❕
 [Assist][Seamless]✅
 [Assist][Sit]✅
 [Assist][SmoothBootReloaded]❕
@@ -283,6 +301,7 @@
 [Assist][Spark]✅
 [Assist][SparseStructuresReforged]✅
 [Assist][SpyglassImprovements]✅
+[Assist][StackRefill]✅
 [Assist][Starlight]✅
 [Assist][StructureEssentials]✅
 [Assist][SuggestionTweaker]❕
@@ -291,11 +310,13 @@
 [Assist][TaxFreeLevels]✅
 [Assist][Tectonic+BiomesOPlentyCompat]✅
 [Assist][TexTruesEmbeddiumOptions]✅
+[Assist][TinyItemAnimations]✅
 [Assist][Tips]✅
 [Assist][TrashSlot]✅
 [Assist][TslatEntityStatus]✅
 [Assist][UniversalBoneMeal]✅
 [Assist][WhatAreTheyUpTo]✅
+[Assist][WorldComment]✅
 [Assist][XaeroPlus]✅
 [Assist][XaerosMinimap]✅
 [Assist][XaerosWorldMap]✅
@@ -306,6 +327,7 @@
 魔改类 --- 20 / 20 | ✅：20 / ❗：0 / ❕：0 | 汉化率：**100**%
 
 ```
+[Custom][BlockSwap]
 [Custom][CustomCredits]✅
 [Custom][FancyMenu]✅
 [Custom][JsonThings]✅
@@ -340,6 +362,7 @@
 [Decoration][CreateDesignNDecor]✅
 [Decoration][CreateEncased]❗
 [Decoration][DarkPaintings]✅
+[Decoration][DawnOfTimeBuilderEdition]❗
 [Decoration][DiagonalFences]✅
 [Decoration][DisplayCase]✅
 [Decoration][Ecologics]✅
@@ -376,6 +399,7 @@
 [Decoration][VerdantVibes]✅
 [Decoration][VisualityReforged]✅
 [Decoration][Wabi-SabiStructures]✅
+[Decoration][WaterFrames]❕
 [Decoration][YUNGsBetterMineshafts]✅
 [Decoration][YUNGsBridges]✅
 [Decoration][YuushyaModelling]✅
@@ -398,6 +422,7 @@ Lib 类 --- 73 / 73 | ✅：62 / ❗：3 / ❕：8 | 汉化率：**84.93**%
 [Lib][Citadel]❕
 [Lib][ClothConfigAPI]✅
 [Lib][CobWeb]✅
+[Lib][CodeChickenLib]❗
 [Lib][CoFHCore]✅
 [Lib][Collective]✅
 [Lib][Configuration]❕
@@ -430,6 +455,7 @@ Lib 类 --- 73 / 73 | ✅：62 / ❗：3 / ❕：8 | 汉化率：**84.93**%
 [Lib][ObscureAPI]✅
 [Lib][Patchouli]✅
 [Lib][Paucal]✅
+[Lib][Pehkui]
 [Lib][Placebo]✅
 [Lib][PlayerAnimator]✅
 [Lib][Pollen]❕
@@ -487,6 +513,7 @@ Lib 类 --- 73 / 73 | ✅：62 / ❗：3 / ❕：8 | 汉化率：**84.93**%
 [Magic][MythicBotany]✅
 [Magic][ScriptorMagicae]✅
 [Magic][Spirit]✅
+[Magic][StarbuncleMania]✅
 [Magic][TooManyGlyphs]✅
 [Magic][Vitalize]✅
 ```
@@ -503,6 +530,7 @@ Lib 类 --- 73 / 73 | ✅：62 / ❗：3 / ❕：8 | 汉化率：**84.93**%
 [Technology][CreateCrafts&Additions]✅
 [Technology][CreateDreams&Desires]❗
 [Technology][CreateJetpack]✅
+[Technology][CreateMetallurgy]✅
 [Technology][CreateTheFactoryMustGrow]✅
 [Technology][CreateVintageImprovements]❗
 [Technology][DuckyPeripherals]✅
@@ -512,6 +540,7 @@ Lib 类 --- 73 / 73 | ✅：62 / ❗：3 / ❕：8 | 汉化率：**84.93**%
 [Technology][ManOfManyPlanes]✅
 [Technology][MoreImmersiveWires]✅
 [Technology][MorePeripherals]✅
+[Technology][PneumaticCraftRepressurized]❗
 [Technology][RebornStorage]✅
 [Technology][RefinedStorage]✅
 [Technology][RefinedStorageAddons]✅
@@ -531,9 +560,11 @@ Lib 类 --- 73 / 73 | ✅：62 / ❗：3 / ❕：8 | 汉化率：**84.93**%
 [Utility][BagOfHolding]✅
 [Utility][BoatLoad]✅
 [Utility][BubbleBoots]✅
+[Utility][BuildingGadgets]✅
 [Utility][CasinoCraft]❕
 [Utility][Chess]✅
 [Utility][ClaySoldiersReborn]✅
+[Utility][CompressedCreativity]❗
 [Utility][ConstructionWand]✅
 [Utility][Corpse]✅
 [Utility][CreateBigCannons]❗
@@ -550,8 +581,10 @@ Lib 类 --- 73 / 73 | ✅：62 / ❗：3 / ❕：8 | 汉化率：**84.93**%
 [Utility][Disenchanting]✅
 [Utility][EccentricTome]✅
 [Utility][EnderRelay]❗
+[Utility][EnderStorage]✅
 [Utility][Ensorcellation]✅
 [Utility][Etched]✅
+[Utility][EveryXHotpot]✅
 [Utility][ExperiencedCrops]✅
 [Utility][Exposure]❗
 [Utility][ExtraDisks]✅
@@ -567,6 +600,7 @@ Lib 类 --- 73 / 73 | ✅：62 / ❗：3 / ❕：8 | 汉化率：**84.93**%
 [Utility][LittleContraptions]✅
 [Utility][LittleLogistics]❗
 [Utility][ManaLiquidizer]✅
+[Utility][MmmMmmMmmMmm]
 [Utility][MobLassos]✅
 [Utility][MoreMinecartsAndRails]✅
 [Utility][MoreVillagers]✅
@@ -586,6 +620,7 @@ Lib 类 --- 73 / 73 | ✅：62 / ❗：3 / ❕：8 | 汉化率：**84.93**%
 [Utility][SimplyHotSprings]✅
 [Utility][SmallShips]✅
 [Utility][SmarterFarmers]✅
+[Utility][SnowySpirit]❗
 [Utility][SophisticatedBackpacks]✅
 [Utility][SophisticatedStorage]✅
 [Utility][StorageDrawers]✅
@@ -596,6 +631,7 @@ Lib 类 --- 73 / 73 | ✅：62 / ❗：3 / ❕：8 | 汉化率：**84.93**%
 [Utility][TetrasDelight]✅
 [Utility][TetraToolbooster]❕
 [Utility][TheAetherRedux]✅
+[Utility][ToolBelt]✅
 [Utility][TouhouLittleMaid]✅
 [Utility][Transmog]✅
 [Utility][UniversalGrid]✅
