@@ -1,40 +1,10 @@
 # 奇迹之旅 - 汉化分支
 
-> 汉化完成的标准为玩家常规游玩时没有遇到关于该模组的英文内容
-
 > ✅ -> 汉化完成 / ❗ -> 汉化不完全 / ❕ -> 暂无汉化
-
-> 语言文件更新时间截止：2024 / 06 / 02
 >
-> 下一次汉化更新时间为：2024 / 07 / 02
-
-## 汉化进度
-
 > 百分比按照模组数量计算，实际汉化率应当高于下文中的汉化率
 
-------
-
-整合包 --- 600 / 600 | ✅：542 / ❗：29 / ❕：29 | 汉化率：**90.33**%
-
-------
-
-冒险类 --- 96 / 96 | ✅：95 / ❗：1 / ❕：0 | 汉化率：**98.96**%
-
-农业类 --- 63 / 63 | ✅：61 / ❗：2 / ❕：0 | 汉化率：**96.83**%
-
-辅助类 --- 143 / 143 | ✅：128 / ❗：8 / ❕：7 | 汉化率：**89.51**%
-
-魔改类 --- 20 / 20 | ✅：20 / ❗：0 / ❕：0 | 汉化率：**100**%
-
-装饰类 --- 57 / 57 | ✅：55 / ❗：2 / ❕：0 | 汉化率：**96.49**%
-
-Lib 类 --- 73 / 73 | ✅：62 / ❗：3 / ❕：8 | 汉化率：**84.93**%
-
-魔法类 --- 28 / 28 | ✅：26 / ❗：2 / ❕：0 | 汉化率：**92.86**%
-
-科技类 --- 21 / 21 | ✅：17 / ❗：4 / ❕：0 | 汉化率：**80.95**%
-
-实用类 --- 99 / 99 | ✅：81 / ❗：7 / ❕：11 | 汉化率：**81.82**%
+**整合包 --- 600 / 600 | ✅：542 / ❗：29 / ❕：29 | 汉化率：90.33%**
 
 ## 分类详情
 
@@ -103,7 +73,6 @@ Lib 类 --- 73 / 73 | ✅：62 / ❗：3 / ❕：8 | 汉化率：**84.93**%
 [Adventure][SavageEnderDragon]✅
 [Adventure][SculkyBit]✅
 [Adventure][SecretsOfForgingRevelations]✅
-[Adventure][SereneSeasons]✅
 [Adventure][ShieldExpansion]✅
 [Adventure][ShieldExpansionExpansion]✅
 [Adventure][SimplySwords]✅
@@ -194,7 +163,6 @@ Lib 类 --- 73 / 73 | ✅：62 / ❗：3 / ❕：8 | 汉化率：**84.93**%
 [Agriculture][Respiteful]✅
 [Agriculture][Seasonals]✅
 [Agriculture][SeedDelight]✅
-[Agriculture][SereneSeasonsPamsHarvestCraft2CropsCompat]✅
 [Agriculture][SmidgeonOBliss]✅
 [Agriculture][SomeAssemblyRequired]✅
 [Agriculture][SpiceOfLifeApplePieEdition]✅
@@ -220,8 +188,6 @@ Lib 类 --- 73 / 73 | ✅：62 / ❗：3 / ❕：8 | 汉化率：**84.93**%
 [Assist][BetterDogsXDoggyTalentsNext]✅
 [Assist][BetterStatisticsScreen]✅
 [Assist][BetterThirdPerson]✅
-[Assist][BridgingMod]❕
-[Assist][Canary]✅
 [Assist][Catalogue]✅
 [Assist][ChatHeads]✅
 [Assist][CherishedWorlds]✅
@@ -232,16 +198,12 @@ Lib 类 --- 73 / 73 | ✅：62 / ❗：3 / ❕：8 | 汉化率：**84.93**%
 [Assist][Configured]❗
 [Assist][ContingameIME]✅
 [Assist][Controlling]✅
-[Assist][CrashPipe]✅
-[Assist][CreateTrainPerspectiveFix]✅
 [Assist][CurioOfUndying]✅
 [Assist][CuriousElytra]✅
-[Assist][Cursery]✅
 [Assist][CustomSkinLoader]✅
 [Assist][DamageTilt]✅
 [Assist][DespawnTweaker]✅
 [Assist][DirectionalDamageIndicator]✅
-[Assist][DoesPotatoTick]✅
 [Assist][DrippyLoadingScreen]❗
 [Assist][EasyAnvils]✅
 [Assist][EasyMagic]✅
@@ -263,7 +225,6 @@ Lib 类 --- 73 / 73 | ✅：62 / ❗：3 / ❕：8 | 汉化率：**84.93**%
 [Assist][FerriteCore]✅
 [Assist][FixGpuMemoryLeak]✅
 [Assist][FTBBackups2]✅
-[Assist][FTBQuests]✅
 [Assist][GeotaggedScreenshots]✅
 [Assist][HarvestWithEase]✅
 [Assist][I18nUpdateMod]✅
@@ -273,15 +234,11 @@ Lib 类 --- 73 / 73 | ✅：62 / ❗：3 / ❕：8 | 汉化率：**84.93**%
 [Assist][InventoryHUD+]✅
 [Assist][Iris&OculusFlywheelCompat]✅
 [Assist][ItemHighlighter]✅
-[Assist][ItemPhysic]✅
 [Assist][ItemZoom]✅
 [Assist][Jade]❗
 [Assist][JadeAddons]❕
 [Assist][JustEnoughCharacters]✅
 [Assist][JustEnoughItems]✅
-[Assist][KeyboardWizard]✅
-[Assist][KleeSlabs]✅
-[Assist][KryptonReforged]✅
 [Assist][LanServerProperties]✅
 [Assist][LazyDFU]✅
 [Assist][LeavesBeGone]✅
@@ -303,7 +260,6 @@ Lib 类 --- 73 / 73 | ✅：62 / ❗：3 / ❕：8 | 汉化率：**84.93**%
 [Assist][NotableBubbleText]✅
 [Assist][NotEnoughAnimations]✅
 [Assist][NotEnoughRecipeBook]✅
-[Assist][Notes]✅
 [Assist][Oculus]✅
 [Assist][OculusParticleFix]✅
 [Assist][OverflowingBars]✅
@@ -314,17 +270,12 @@ Lib 类 --- 73 / 73 | ✅：62 / ❗：3 / ❕：8 | 汉化率：**84.93**%
 [Assist][PickUpNotifier]✅
 [Assist][PigPenCipher]✅
 [Assist][Polymorph]✅
-[Assist][QuestsAdditions]✅
 [Assist][Raised]❕
 [Assist][RefinedPolymorphism]✅
 [Assist][RefinedStorageRequestify]✅
 [Assist][RubidiumExtra]✅
 [Assist][Runelic]✅
 [Assist][Seamless]✅
-[Assist][SeasonHUD]✅
-[Assist][SeasonTweaks]✅
-[Assist][SereneSeasonsFix]✅
-[Assist][SimpleVoiceChat]✅
 [Assist][Sit]✅
 [Assist][SmoothBootReloaded]❕
 [Assist][SmoothChunkSave]✅
@@ -340,13 +291,10 @@ Lib 类 --- 73 / 73 | ✅：62 / ❗：3 / ❕：8 | 汉化率：**84.93**%
 [Assist][TaxFreeLevels]✅
 [Assist][Tectonic+BiomesOPlentyCompat]✅
 [Assist][TexTruesEmbeddiumOptions]✅
-[Assist][TheMightyArchitectury]✅
 [Assist][Tips]✅
 [Assist][TrashSlot]✅
-[Assist][TravelersTitles]❗
 [Assist][TslatEntityStatus]✅
 [Assist][UniversalBoneMeal]✅
-[Assist][WFsCaveOverhaul]✅
 [Assist][WhatAreTheyUpTo]✅
 [Assist][XaeroPlus]✅
 [Assist][XaerosMinimap]✅
@@ -358,12 +306,8 @@ Lib 类 --- 73 / 73 | ✅：62 / ❗：3 / ❕：8 | 汉化率：**84.93**%
 魔改类 --- 20 / 20 | ✅：20 / ❗：0 / ❕：0 | 汉化率：**100**%
 
 ```
-[Custom][ArmorCurve]✅
-[Custom][BeJs]✅
 [Custom][CustomCredits]✅
 [Custom][FancyMenu]✅
-[Custom][FtbXModCompat]✅
-[Custom][ItemObliterator]✅
 [Custom][JsonThings]✅
 [Custom][KubeJs]✅
 [Custom][KubeJsAdditions]✅
@@ -375,7 +319,6 @@ Lib 类 --- 73 / 73 | ✅：62 / ❗：3 / ❕：8 | 汉化率：**84.93**%
 [Custom][KubeJsIronsSpells]✅
 [Custom][LootJs]✅
 [Custom][PonderForKubeJs]✅
-[Custom][PowerfulJs]✅
 [Custom][ProbeJs]✅
 [Custom][StarterKit]✅
 ```
@@ -409,7 +352,6 @@ Lib 类 --- 73 / 73 | ✅：62 / ❗：3 / ❕：8 | 汉化率：**84.93**%
 [Decoration][ImmersivePosts]✅
 [Decoration][LetsDoBeachparty]✅
 [Decoration][LimitlessConcert]✅
-[Decoration][LittlePictureFrames]✅
 [Decoration][MacawsHolidays]✅
 [Decoration][MacawsPaintings]✅
 [Decoration][MacawsWindows]✅
@@ -430,7 +372,6 @@ Lib 类 --- 73 / 73 | ✅：62 / ❗：3 / ❕：8 | 汉化率：**84.93**%
 [Decoration][TanukiDecor]✅
 [Decoration][Tectonic]✅
 [Decoration][TexelsPaintings]✅
-[Decoration][TintedCampfires]✅
 [Decoration][ValhelsiaFurniture]✅
 [Decoration][VerdantVibes]✅
 [Decoration][VisualityReforged]✅
@@ -467,12 +408,9 @@ Lib 类 --- 73 / 73 | ✅：62 / ❗：3 / ❕：8 | 汉化率：**84.93**%
 [Lib][EdivadLib]✅
 [Lib][ExpandAbility]✅
 [Lib][Framework]✅
-[Lib][FTBLibrary]✅
-[Lib][FTBTeams]✅
 [Lib][GeckoLib]❕
 [Lib][IceBerg]✅
 [Lib][IntegratedAPI]✅
-[Lib][ItemFilters]✅
 [Lib][Kiwi]✅
 [Lib][Konkrete]✅
 [Lib][KotlinForForge]✅
@@ -592,7 +530,6 @@ Lib 类 --- 73 / 73 | ✅：62 / ❗：3 / ❕：8 | 汉化率：**84.93**%
 [Utility][Automobility]✅
 [Utility][BagOfHolding]✅
 [Utility][BoatLoad]✅
-[Utility][BotanicalMachinery]✅
 [Utility][BubbleBoots]✅
 [Utility][CasinoCraft]❕
 [Utility][Chess]✅
@@ -612,7 +549,6 @@ Lib 类 --- 73 / 73 | ✅：62 / ❗：3 / ❕：8 | 汉化率：**84.93**%
 [Utility][DimensionalAscensionBlueSkiesTetraCompatibility]❕
 [Utility][Disenchanting]✅
 [Utility][EccentricTome]✅
-[Utility][EnderChests]✅
 [Utility][EnderRelay]❗
 [Utility][Ensorcellation]✅
 [Utility][Etched]✅
@@ -639,7 +575,6 @@ Lib 类 --- 73 / 73 | ✅：62 / ❗：3 / ❕：8 | 汉化率：**84.93**%
 [Utility][NetherDepthsUpgrade]✅
 [Utility][OreganizedMod]✅
 [Utility][Paragliders]✅
-[Utility][PetCemetery]✅
 [Utility][PetPassTradeYourPets]✅
 [Utility][PresenceFootsteps]✅
 [Utility][ProtectYourMoa]❕
@@ -651,7 +586,6 @@ Lib 类 --- 73 / 73 | ✅：62 / ❗：3 / ❕：8 | 汉化率：**84.93**%
 [Utility][SimplyHotSprings]✅
 [Utility][SmallShips]✅
 [Utility][SmarterFarmers]✅
-[Utility][Snowmancy]❕
 [Utility][SophisticatedBackpacks]✅
 [Utility][SophisticatedStorage]✅
 [Utility][StorageDrawers]✅
