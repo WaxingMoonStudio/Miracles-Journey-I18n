@@ -1,6 +1,7 @@
 {
-  "itemGroup.ChineseChess": "中国棋类",
-  "itemGroup.JunqiChess": "军棋",
+  "itemGroup.xiangqi": "中国棋类",
+  "itemGroup.junqi": "军棋",
+  "itemGroup.flight": "飞行棋",
 
   "block.chess.template": "象棋模板",
 
@@ -78,5 +79,20 @@
   "block.chess.st_tv_one_rail": "带角线的T形铁路和公路交线",
   "block.chess.st_v_cross_one_rail": "带角线的铁路和公路交线",
   "block.chess.st_v_cross_t_rail": "带角线的T形铁路和公路线",
-  "block.chess.st_stblank": "空白(棋盘方块)"
+  "block.chess.st_stblank": "空白(棋盘方块)",
+
+  "block.chess.blue_yellow_wool":  "乌克兰羊毛",
+  "block.chess.blue_yellow_t_wool": "蓝黄羊毛",
+  "block.chess.yellow_red_wool":  "黄红羊毛",
+  "block.chess.yellow_red_t_wool": "黄红羊毛",
+  "block.chess.red_green_wool":  "红绿羊毛",
+  "block.chess.red_green_t_wool": "红绿羊毛",
+  "block.chess.green_blue_wool":  "绿蓝羊毛",
+  "block.chess.green_blue_t_wool": "绿蓝羊毛",
+  "block.chess.central_cross":  "中央十字",
+  "block.chess.byr_wool": "蓝黄红羊毛",
+  "block.chess.yrg_wool":  "黄红绿羊毛",
+  "block.chess.rgb_wool": "红绿蓝羊毛",
+  "block.chess.gby_wool":  "绿蓝黄羊毛",
+  "block.chess.dice": "骰子"
 }

@@ -1,6 +1,7 @@
 {
-  "itemGroup.ChineseChess": "Chinese Chess",
-  "itemGroup.JunqiChess": "Military Chess",
+  "itemGroup.xiangqi": "Chinese Chess",
+  "itemGroup.junqi": "Military Chess",
+  "itemGroup.flight": "Flight Chess",
 
   "block.chess.template": "Chinese chess template",
 
@@ -78,5 +79,20 @@
   "block.chess.st_tv_one_rail": "T road rail with corner line",
   "block.chess.st_v_cross_one_rail": "Road rail with corner line",
   "block.chess.st_v_cross_t_rail": "Road T rail with corner line",
-  "block.chess.st_stblank": "Blank(Board block)"
+  "block.chess.st_stblank": "Blank(Board block)",
+
+  "block.chess.blue_yellow_wool":  "Blue and yellow wool",
+  "block.chess.blue_yellow_t_wool": "Blue and yellow wool",
+  "block.chess.yellow_red_wool":  "Yellow and red wool",
+  "block.chess.yellow_red_t_wool": "Yellow and red wool",
+  "block.chess.red_green_wool":  "Red and green wool",
+  "block.chess.red_green_t_wool": "Red and green wool",
+  "block.chess.green_blue_wool":  "Green and blue wool",
+  "block.chess.green_blue_t_wool": "Green and blue wool",
+  "block.chess.central_cross":  "Central cross",
+  "block.chess.byr_wool": "Blue yellow and red wool",
+  "block.chess.yrg_wool":  "Yellow red and green wool",
+  "block.chess.rgb_wool": "Red green and blue wool",
+  "block.chess.gby_wool":  "Green blue and yellow wool",
+  "block.chess.dice": "Dice"
 }

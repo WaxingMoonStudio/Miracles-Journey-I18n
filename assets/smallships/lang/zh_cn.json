@@ -5,10 +5,6 @@
   "key.smallships.higher_ship_sail": "卷起船帆",
   "key.smallships.lower_ship_sail": "放下船帆",
   "key.smallships.ship_inventory": "打开船只物品栏",
-  "death.attack.cannonBall": "%s被加农炮射杀。",
-  "death.attack.cannonBall.player": "%s被%s用加农炮射杀。",
-  "death.attack.hit_ship": "%s被船撞击而亡。",
-  "death.attack.hit_ship.player": "%s被%s用船撞击而亡。",
   "item.smallships.sail": "船帆",
   "item.smallships.cannon": "船载加农炮",
   "item.smallships.cannon_ball": "加农炮弹",
@@ -79,5 +75,9 @@
   "subtitles.smallships.sail_move": "船帆：移动",
   "subtitles.smallships.sail_pull": "船帆：关闭",
   "subtitles.smallships.cannon_shot": "加农炮：射击",
-  "subtitles.smallships.ship_hit": "船：受到攻击"
+  "subtitles.smallships.ship_hit": "船：受到攻击",
+  "death.attack.cannonBall": "%s was shot with a cannon.",
+  "death.attack.cannonBall.player": "%s was shot with a cannon by %s.",
+  "death.attack.shipCollision": "%s was hit by a ship.",
+  "death.attack.shipCollision.player": "%s was hit by %s with a ship."
 }

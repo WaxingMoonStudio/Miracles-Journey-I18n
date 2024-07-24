@@ -1,4 +1,6 @@
 {
+  "modmenu.descriptionTranslation.inventoryhud": "玩游戏时在屏幕上显示库存。",
+
   "key.inventoryhud.category": "Inventory HUD+",
   "key.inventoryhud.toggle": "打开/关闭 InventoryHUD",
   "key.inventoryhud.openconfig": "打开配置",
@@ -69,6 +71,31 @@
   "key.inventoryhud.togglearm": "打开/关闭盔甲HUD",
 
   "inventoryhud.config.gui.update" : "有新版本可用，",
-  "inventoryhud.config.gui.updateclick" : "点击获取"
+  "inventoryhud.config.gui.updateclick" : "点击获取",
 
+  "inventoryhud.config.gui.keepnotify": "不止一次通知：",
+  "inventoryhud.config.gui.keepnotify.tt": "如果为 false - 每个版本您只会收到一次有关新版本的通知。",
+
+  "inventoryhud.config.gui.hiddeneffects": "显示隐藏：",
+  "inventoryhud.config.gui.hiddeneffects.tt": "显示隐藏效果的图标",
+
+  "inventoryhud.config.gui.bl.title": "黑名单编辑器",
+  "inventoryhud.config.gui.blacklist": "黑名单：",
+  "inventoryhud.config.gui.blacklist.tt": "带有禁用图标的效果列表",
+  "inventoryhud.config.gui.blacklistbtn": "编辑",
+  "inventoryhud.config.gui.bl.add": "添加效果",
+  "inventoryhud.config.gui.bl.delete": "删除",
+  "inventoryhud.config.gui.bl.save": "节省",
+
+  "inventoryhud.config.gui.withdebug": "带调试：",
+  "inventoryhud.config.gui.invdebug.tt": "调试屏幕打开时显示库存 HUD",
+  "inventoryhud.config.gui.potdebug.tt": "调试屏幕打开时显示 Potion HUD",
+  "inventoryhud.config.gui.armdebug.tt": "调试屏幕打开时显示 Armor HUD",
+
+  "inventoryhud.config.gui.arrowswithoutweapon": "没有武器的箭头：",
+  "inventoryhud.config.gui.arrowswithoutweapon.tt": "即使手中没有武器也显示箭头计数",
+
+  "inventoryhud.config.gui.potionlevels": "级别：",
+  "inventoryhud.config.gui.potionlevels.tt.1": "如果 'true' Potion HUD 将显示所有级别，",
+  "inventoryhud.config.gui.potionlevels.tt.2": "对于等级高于九的效果，而不是无穷大符号"
 }

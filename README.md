@@ -55,7 +55,7 @@
 [Adventure][ItTakesAPillage]✅
 [Adventure][IWannaSkate]✅
 [Adventure][KnavesNeeds]✅
-[Adventure][LEndersCataclysm]✅
+[Adventure][LEndersCataclysm]❗
 [Adventure][Maced]✅
 [Adventure][MeetYourFight]✅
 [Adventure][MobCompack]✅
@@ -130,7 +130,7 @@
 [Agriculture][CrabbersDelight]✅
 [Agriculture][CreateBitterballen]✅
 [Agriculture][CreateCafe]✅
-[Agriculture][CreateDeepfried]
+[Agriculture][CreateDeepfried]❕
 [Agriculture][CreateFactory]✅
 [Agriculture][CreateGarnished]❗
 [Agriculture][CuisineDelight]✅
@@ -262,7 +262,7 @@
 [Assist][MemoryLeakFix]✅
 [Assist][MiniEffects]✅
 [Assist][ModelGapFix]✅
-[Assist][ModernFix]✅
+[Assist][ModernFix]❗
 [Assist][ModernUI]✅
 [Assist][ModpackUpdateChecker]❗
 [Assist][MouseTweaks]✅
@@ -349,7 +349,7 @@
 
 ```
 [Decoration][AmbientEnvironment]✅
-[Decoration][ArmourersWorkshop]✅
+[Decoration][ArmourersWorkshop]❗
 [Decoration][Beautify]✅
 [Decoration][BiomesOPlenty]✅
 [Decoration][CarpetedStairs&Slabs]✅
@@ -378,7 +378,7 @@
 [Decoration][MacawsHolidays]✅
 [Decoration][MacawsPaintings]✅
 [Decoration][MacawsWindows]✅
-[Decoration][MakeBubblesPop]✅
+[Decoration][MakeBubblesPop]❕
 [Decoration][MedievalPaintings]✅
 [Decoration][MoreAxolotlVariantsMod]✅
 [Decoration][MrCrayfishsFurnitureMod]✅
@@ -427,7 +427,7 @@ Lib 类 --- 73 / 73 | ✅：62 / ❗：3 / ❕：8 | 汉化率：**84.93**%
 [Lib][Collective]✅
 [Lib][Configuration]❕
 [Lib][CoroUtil]✅
-[Lib][CreativeCore]❕
+[Lib][CreativeCore]❗
 [Lib][CupBoard]✅
 [Lib][CuriosAPI]✅
 [Lib][EdivadLib]✅
@@ -455,11 +455,11 @@ Lib 类 --- 73 / 73 | ✅：62 / ❗：3 / ❕：8 | 汉化率：**84.93**%
 [Lib][ObscureAPI]✅
 [Lib][Patchouli]✅
 [Lib][Paucal]✅
-[Lib][Pehkui]
+[Lib][Pehkui]❕
 [Lib][Placebo]✅
 [Lib][PlayerAnimator]✅
 [Lib][Pollen]❕
-[Lib][PolyLib]✅
+[Lib][PolyLib]❗
 [Lib][Prism]✅
 [Lib][PuzzlesLib]✅
 [Lib][RavenBrewsCore]✅
@@ -502,7 +502,7 @@ Lib 类 --- 73 / 73 | ✅：62 / ❗：3 / ❕：8 | 汉化率：**84.93**%
 [Magic][HexCircus]✅
 [Magic][Hexerei]✅
 [Magic][HexGloop]✅
-[Magic][HexKeys]✅
+[Magic][HexKeys]❗
 [Magic][HexResearch]✅
 [Magic][HextendedStaves]✅
 [Magic][HexTweaks]✅
@@ -531,7 +531,7 @@ Lib 类 --- 73 / 73 | ✅：62 / ❗：3 / ❕：8 | 汉化率：**84.93**%
 [Technology][CreateDreams&Desires]❗
 [Technology][CreateJetpack]✅
 [Technology][CreateMetallurgy]✅
-[Technology][CreateTheFactoryMustGrow]✅
+[Technology][CreateTheFactoryMustGrow]❗
 [Technology][CreateVintageImprovements]❗
 [Technology][DuckyPeripherals]✅
 [Technology][ExtraStorage]✅
@@ -618,7 +618,7 @@ Lib 类 --- 73 / 73 | ✅：62 / ❗：3 / ❕：8 | 汉化率：**84.93**%
 [Utility][RedstonePen]✅
 [Utility][SimpleHats]❗
 [Utility][SimplyHotSprings]✅
-[Utility][SmallShips]✅
+[Utility][SmallShips]❗
 [Utility][SmarterFarmers]✅
 [Utility][SnowySpirit]❗
 [Utility][SophisticatedBackpacks]✅
@@ -630,7 +630,7 @@ Lib 类 --- 73 / 73 | ✅：62 / ❗：3 / ❕：8 | 汉化率：**84.93**%
 [Utility][Tetranomicon]✅
 [Utility][TetrasDelight]✅
 [Utility][TetraToolbooster]❕
-[Utility][TheAetherRedux]✅
+[Utility][TheAetherRedux]❗
 [Utility][ToolBelt]✅
 [Utility][TouhouLittleMaid]✅
 [Utility][Transmog]✅

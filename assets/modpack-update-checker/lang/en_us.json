@@ -44,6 +44,12 @@
   "screen.modpack-update-checker.select-world.modpack-backup.incompatible": "This world was last played in %s %s, which is not compatible with the current version, %s %s.",
   "screen.modpack-update-checker.select-world.incompatible-modpack-version": "This world is not compatible with the current modpack.",
 
+  "screen.modpack-update-checker.missing-mods.title": "Missing Mods!",
+  "screen.modpack-update-checker.missing-mods.auto-download": "Auto Download",
+  "screen.modpack-update-checker.missing-mods.downloaded.client-launch": "Auto-downloaded",
+  "screen.modpack-update-checker.missing-mods.downloaded.automatic": "Auto-downloaded",
+  "screen.modpack-update-checker.missing-mods.downloaded.manual": "Found!",
+
   "command.mpuc.error.invalid-hotfix": "%s is not valid",
   "command.mpuc.error.hotfix-already-queued": "%s is already queued",
 

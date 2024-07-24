@@ -7,5 +7,9 @@
   "fluid_tank.polylib.capacity": "容量:",
   "fluid_tank.polylib.stored": "已储存:",
   "fluid_tank.polylib.mb": "mB",
-  "fluid_tank.polylib.contains": "当前储量:"
+  "fluid_tank.polylib.contains": "当前储量:",
+  "rs_mode.polylib.active_high": "Active with redstone signal",
+  "rs_mode.polylib.active_low": "Active without redstone signal",
+  "rs_mode.polylib.always_active": "Always active",
+  "rs_mode.polylib.never_active": "Never active"
 }

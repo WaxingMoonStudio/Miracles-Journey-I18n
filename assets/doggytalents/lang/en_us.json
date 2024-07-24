@@ -5,7 +5,6 @@
   "block.doggytalents.dog_bed.reclaim": "%s has reclaimed %s bed.",
   "block.doggytalents.food_bowl": "Food Bowl",
   "block.doggytalents.dog_bath": "Dog Bath",
-
   "item.doggytalents.throw_bone": "Throw Bone",
   "item.doggytalents.throw_bone_wet": "Drool Throw Bone",
   "item.doggytalents.throw_stick": "Throw Stick",
@@ -16,6 +15,7 @@
   "item.doggytalents.kami_treat": "Kami Treat",
   "item.doggytalents.breeding_bone": "Breeding Bone",
   "item.doggytalents.doggy_charm": "Doggy Charm",
+  "item.doggytalents.doggy_charm.description": "Shift + Right-Click your dog to cycle between all available Classical Variants.",
   "item.doggytalents.radio_collar": "Radio Collar",
   "item.doggytalents.wool_collar": "Wool Collar",
   "item.doggytalents.wool_collar_thicc": "Thick Wool Collar",
@@ -41,7 +41,7 @@
   "item.doggytalents.whistle.12": "Heel By Look Whistle",
   "item.doggytalents.whistle.13": "Ride With Me Whistle",
   "item.doggytalents.whistle.14": "Whistle: Command Howl!",
-
+  "item.doggytalents.whistle.15": "All Stand Switch Mode",
   "item.doggytalents.treat_bag": "Treat Bag",
   "item.doggytalents.energizer_stick": "Energizer Stick",
   "item.doggytalents.egg_sandwich": "Egg Sandwich",
@@ -58,21 +58,18 @@
   "item.doggytalents.amnesia_bone": "Amnesia Bone",
   "item.doggytalents.guard_suit": "Guard Suit",
   "item.doggytalents.conducting_bone": "Conducting Bone",
-
   "item.doggytalents.pianist_suit": "Pianist Suit",
   "item.doggytalents.death_hood": "Death Hood",
   "item.doggytalents.bowtie": "Bowtie",
   "item.doggytalents.smarty_glasses": "Smarty Glasses",
   "item.doggytalents.tengu_mask": "Tengu Mask",
   "item.doggytalents.tengu_mask.description": "Right-click with a String to switch the mask's position",
-
   "item.doggytalents.birthday_hat": "Birthday Hat",
   "item.doggytalents.birthday_hat.description": "Craft with Paper to add a Secondary color to the hat",
   "item.doggytalents.propeller_hat": "Propeller Hat",
   "item.doggytalents.propeller_hat.description": "Spinna!",
   "item.doggytalents.fedora": "Fedora",
   "item.doggytalents.flatcap": "Flat Cap",
-
   "item.doggytalents.witch_hat": "Witch Hat",
   "item.doggytalents.witch_hat.description": "It smells funky...",
   "item.doggytalents.demon_horns": "Demon Horns",
@@ -87,12 +84,10 @@
   "item.doggytalents.beastars_uniform_female": "Beastars' Female Uniform",
   "item.doggytalents.beastars_uniform_male": "Beastars' Male Uniform",
   "item.doggytalents.empty_locator_orb": "Empty Locator Orb",
-
   "item.doggytalents.frisbee": "Frisbee",
   "item.doggytalents.frisbee_wet": "Drool Frisbee",
   "item.doggytalents.frisbee.description": "Brought to you by Canid.",
   "item.doggytalents.frisbee_wet.description": "Brought to you by Canid. (Eww)",
-
   "item.doggytalents.hot_dog": "Hot Dog",
   "item.doggytalents.hot_dog.description": "It tastes...funny?",
   "item.doggytalents.giant_stick": "Broomstick",
@@ -121,7 +116,6 @@
   "item.doggytalents.ceremonial_garb": "Ceremonial Garb",
   "item.doggytalents.doggy_contacts": "Doggy Contact Lenses",
   "item.doggytalents.doggy_contacts.description": "Craft with Paper to Dye the other len.",
-
   "item.doggytalents.locator_orb_chi": "Chi Orb",
   "item.doggytalents.locator_orb_chi.description": "The Orb of Wisdom and Knowledge.",
   "item.doggytalents.locator_orb_chu": "Chu Orb",
@@ -144,21 +138,17 @@
   "item.doggytalents.head_band_mystery.description": "Who's that wolfy boi?",
   "item.doggytalents.head_band_highhh": "Head Band - Highhhh",
   "item.doggytalents.head_band_highhh.description": "The Dev's favorite emoji.",
-
   "item.doggytalents.gender_bone": "Gender Bone",
   "item.doggytalents.variant_changer": "Variant Changer",
   "item.doggytalents.variant_changer.description": "Variant: %s",
-
   "item.doggytalents.superdog_suit": "SuperDog Suit",
   "item.doggytalents.flying_cape": "Flying Cape",
   "item.doggytalents.bat_wings": "Bat Wings",
   "item.doggytalents.crow_wings": "Crow Wings",
-
   "item.doggytalents.divine_retribution": "Divine Retribution",
   "item.doggytalents.divine_retribution.description": "\"Ow ow ow! Take it off my back! It burns!\" - Said Normal Wolfie.",
   "item.doggytalents.divine_retribution.description2": "\"You'll get used to it.\" - Replied Kumi.",
   "item.doggytalents.soul_reflector": "Soul Reflector",
-
   "item.doggytalents.rice_grains": "Rice Grains",
   "block.doggytalents.rice_crop.description": "Sneak Right-Click on a Grindstone to Dehusk the rice.",
   "item.doggytalents.uncooked_rice": "Uncooked Rice",
@@ -201,14 +191,11 @@
   "item.doggytalents.natto_rice.description": "Best way to enjoy Natto!",
   "item.doggytalents.sake": "Bottle of Sake",
   "item.doggytalents.sake.description": "Drink responsibly! Not suitable for underage doggos!",
-
   "item.doggytalents.scent_treat": "Scent Treat",
   "item.doggytalents.scent_treat.description": "Right-Click a Block to collect a sample of its scent. Right-Click on a Water Caudron to clear its collected scent.",
   "item.doggytalents.scent_treat.scented_block": "Collected Block Sample: ",
   "item.doggytalents.drool_scent_treat": "Drool Scent Treat",
-
   "item.doggytalents.feathered_mantle": "Feathered Mantle",
-
   "item.doggytalents.grand_piano_black_item": "Grand Piano Black (Experimental)",
   "item.doggytalents.grand_piano_white_item": "Grand Piano White (Experimental)",
   "item.doggytalents.upright_piano_black_item": "Upright Piano Black (Experimental)",
@@ -216,7 +203,6 @@
   "items.doggytalents.piano_item_common.description": "Sneak + Right Click with a Torch in hand to adjust its orientation.",
   "item.doggytalents.dog_plushie_toy_item": "Dog Plushie Toy",
   "item.doggytalents.dog_plushie_toy_item.description": "Sneak + Right Click with a Torch in hand to adjust its orientation.",
-
   "item.doggytalents.cape_coloured.tooltip": "Color: %s",
   "item.doggytalents.wool_collar.tooltip": "Color: %s",
   "item.doggytalents.creative_collar.tooltip": "Gives Unlimited points to spend",
@@ -236,7 +222,6 @@
   "item.doggytalents.amnesia_bone.use_status": "Uses left: %d/%d",
   "item.doggytalents.amnesia_bone.migrate_owner.reject": "Your request to own %s has been rejected.",
   "item.doggytalents.amnesia_bone.migrate_owner.confirmed": "You are now the owner of %s. Take good care of %s.",
-
   "container.doggytalents.pack_puppy": "Pack Puppy",
   "container.doggytalents.food_bowl": "Food Bowl",
   "container.doggytalents.treat_bag": "Treat Bag",
@@ -245,10 +230,8 @@
   "container.doggytalents.dog_inventories": "Dog Inventories",
   "container.doggytalents.dog_armor": "Dog Armor",
   "container.doggytalents.doggy_tools": "Doggy Tools",
-
   "itemGroup.doggytalents": "Doggy Talents Next",
   "itemGroup.doggytalents.dogbed": "Dog Bed Variants",
-
   "treat.kami_treat.low_level": "The awesome power in these treats is too much for your Dog to handle.",
   "treat.kami_treat.level_up": "Level up!",
   "treat.kami_treat.too_young": "This Dog is a little too young to be learning the skills just yet.",
@@ -258,7 +241,6 @@
   "treat.normal_treat.max_level": "Your Dog is too advanced to benefit from these treats.",
   "treat.big_dog.too_young": "This Dog is a bit too young for this item.",
   "treat.tiny_dog.too_young": "This Dog is a bit too young for this item.",
-
   "talent.doggytalents.black_pelt": "Black Pelt",
   "talent.doggytalents.guard_dog": "Guard Dog",
   "talent.doggytalents.hunter_dog": "Hunter Dog",
@@ -291,7 +273,6 @@
   "talent.doggytalents.sniffer_dog": "Sniffer Dog",
   "talent.doggytalents.gate_passer": "Gate Woof",
   "talent.doggytalents.ookamikaze": "Ookamikaze",
-
   "talent.doggytalents.bed_finder.description": "While a Dog with this ability is on your head, your bed will have a yellow outline around it. To place the Dog on your head, Right-click on the Dog with a Bone in your hand. The range is 200 blocks per level, but becomes infinite at level 5.",
   "talent.doggytalents.black_pelt.description": "Increases critical hit rate by half a heart per level, plus an additional heart upon mastery.",
   "talent.doggytalents.guard_dog.description": "Increases the chance that your Dog, will completely block a physical attack.",
@@ -324,7 +305,6 @@
   "talent.doggytalents.sniffer_dog.description": "This talent allows your dog to sniff out valuable ores. Each level increases your dog's sniffing distance, thus increasing the chance of finding the desired ore. To make your dog start detecting a certain block, a Scent Treat is required to mark the scent of the block. The treat then be given to the dog who will lick the treat, memorize the scent and give you back. To make your dog stop detecting, give it a Empty Scent Treat. To check which block your Dog are looking for, Sneak and Right-Click it with any Scent Treat in hand. One thing to note is that Dogs are not quite good at detecting blocks vertically, so despite the radius increase that each level provides along the horizontal plane, they are only capable of locating blocks which is not around 3 blocks higher or lower than where they are standing. Be sure to pay close attention to what the Dog is trying to tell you to have a better idea of where the block is.",
   "talent.doggytalents.gate_passer.description": "This talent allows your dog to open fence gates and wooden doors and pass through them. They will also remember to close it afterwards, although sometimes they do forget :)",
   "talent.doggytalents.ookamikaze.description": "\"The most adorable harbinger of chaos and destruction the world has ever known! Feed it gunpowder, and it will create an explosion that doesn't hurt it!\" - RaustBlackDragon, Original Creator of DoggyTalents, 2011.\n\nThrow the Dog a Gunpowder using the Treat Bag to make him summon the Explosion, which indeed doesn't hurt itself, you or your team! Notice that the Dog Eplosion still deals full damage to any entity nearby other than the aforementioned, you have been warned!",
-
   "talent.doggytalents.roaring_gale.cooldown": "Roaring Gale is on cooldown.",
   "talent.doggytalents.roaring_gale.level": "Put some points in Roaring Gale to use!",
   "talent.doggytalents.roaring_gale.miss": "A roar and a miss...",
@@ -359,9 +339,7 @@
   "talent.doggytalents.gate_passer.pass_gate.set": "Allow Passing Gates",
   "talent.doggytalents.gate_passer.pass_gate.unset": "Stop Passing Gates",
   "talent.doggytalents.creeper_sweeper.only_attack_creeper": "Only Target Creeper",
-
   "talent.doggytalents.bed_finder.dog_mount": "Click to make %s dismount",
-
   "dog.mode.wandering": "Wandering",
   "dog.mode.tactical": "Tactical",
   "dog.mode.aggressive": "Aggressive",
@@ -373,7 +351,6 @@
   "dog.mode.guard_flat": "G. Flat",
   "dog.mode.guard_minor": "G. Minor",
   "dog.mode.incapacitated": "Injured",
-
   "dog.mode.wandering.indicator": "W",
   "dog.mode.tactical.indicator": "T",
   "dog.mode.aggressive.indicator": "A",
@@ -385,7 +362,6 @@
   "dog.mode.guard_flat.indicator": "G♭",
   "dog.mode.guard_minor.indicator": "Gm",
   "dog.mode.incapacitated.indicator": "I",
-
   "dog.mode.wandering.description": "Your Dog wanders around a certain point. That point will be the bowl if one is nearby, otherwise the location the dog is at upon entering this mode. To set your Dog's bowl, bring your Dog within a few blocks of it.",
   "dog.mode.tactical.description": "Your Dog follows you but refrains from attacking anything unless you use the Tactical Whistle.",
   "dog.mode.aggressive.description": "Your Dog follows you and attacks anything tries to hurt you. This behaviour is the same as vanilla wolves'.",
@@ -396,12 +372,10 @@
   "dog.mode.guard.description": "Your Dog follows you VERY CLOSELY and attacks any enemies that approach you until they either get far enough away from you or die.",
   "dog.mode.guard_flat.description": "Guard Flat - Same as Guard Mode, but they will ignore Piglins (If you are wearing any Gold Armor Pieces) and Endermen.",
   "dog.mode.guard_minor.description": "Guard Minor - Same as Guard Mode, but they will refrain from attacking, instead they growl to warn you. If Dog has the Creeper Sweeper Talent, it will only detect Creepers.",
-
   "dog.mode.incapacitated.msg.partition1": "%sis now %s!",
   "dog.mode.docile.nobowl": "No food bowl currently set.",
   "dog.mode.docile.bowl": "Bowl distance: %d",
   "dog.mode.docile.distance": "Bowl is too far away: %d",
-
   "dog.gender.female": "Female",
   "dog.gender.female.indicator": "F",
   "dog.gender.female.pronoun": "her",
@@ -420,50 +394,40 @@
   "dog.gender.unisex.subject": "they",
   "dog.gender.unisex.possessive_abjective": "their",
   "dog.gender.unisex.title": "unisex",
-
   "dog.msg.low_hunger.0": "%s: Can we get something to eat? i'm starving !",
   "dog.msg.low_hunger.1": "%s: I am Hungry! Food pls...",
   "dog.msg.low_hunger.2": "%s: Shall we eat now?",
   "dog.msg.low_hunger.3": "%s: Feed me, hooman!",
   "dog.msg.low_hunger.4": "%s: I guess it is time to eat?",
-
   "dog.msg.low_health.0": "%s: I don't feel so good.",
   "dog.msg.low_health.1": "%s: I really need some help here...",
   "dog.msg.low_health.2": "%s: Ouchie, this is not good at all!",
   "dog.msg.low_health.3": "%s: MEEEEEDICCC MEEEDDDICCCC!",
-
   "dog.low_health_strategy": "Low Health Strategy",
   "dog.low_health_strategy.0": "None",
   "dog.low_health_strategy.1": "Run Away",
   "dog.low_health_strategy.2": "Stick To Owner",
-
   "dog.low_health_strategy.0.help": "Your Dog continues to do whatever it is doing despite being low on health.",
   "dog.low_health_strategy.1.help": "Your Dog starts becoming alerted to any enemies targeting the Dog and try to avoid them.",
   "dog.low_health_strategy.2.help": "Your Dog stays close to its owner while being low on health. It also whines to notify the owner.",
-
   "dog.combat_return_strategy": "Combat Return Strategy",
   "dog.combat_return_strategy.0": "Standard",
   "dog.combat_return_strategy.1": "Far",
   "dog.combat_return_strategy.2": "None",
-
   "dog.combat_return_strategy.0.help": "When fighting enemies, this dog will return to you if it is being too far away.",
   "dog.combat_return_strategy.1.help": "Same as Standard but the dog will keep fighting several blocks further.",
   "dog.combat_return_strategy.2.help": "Your dog will keep pursuing the target regardless of how far away it is from you.",
-
   "dog.msg.greet_owner.0": "%s: Where have you been?",
   "dog.msg.greet_owner.1": "%s: You don't know how long I have been waiting for you!",
   "dog.msg.greet_owner.2": "%s: I missed you!",
   "dog.msg.greet_owner.3": "%s: Glad you were okay!",
   "dog.msg.greet_owner.4": "%s: You're back! Hooray!",
-
   "dog.msg.play_tag.gotcha": "%s: Gotcha!!!",
   "dog.msg.play_tag.dog_win": "You have lost %s in tag! What a speedy Doggo!",
   "dog.msg.play_tag.you_win": "You have won %s in tag!",
-
   "entity.doggytalents.dog": "Dog",
   "entity.doggytalents.dog.unknown_owner": "Owner Unknown",
   "entity.doggytalents.dog.untamed": "Untamed",
-
   "dog.classical.variant.pale": "Pale",
   "dog.classical.variant.chestnut": "Chestnut",
   "dog.classical.variant.striped": "Striped",
@@ -477,10 +441,14 @@
   "dog.classical.variant.compl.lemony_lime": "Lemony Lime",
   "dog.classical.variant.compl.himalayan_salt": "Himalayan Salt",
   "dog.classical.variant.compl.bamboo": "Bamboo",
-
+  "dog.classical.variant.compl.crimson": "Crimson",
+  "dog.classical.variant.compl.warped": "Warped",
+  "dog.classical.variant.compl.birch": "Birch",
+  "dog.classical.variant.compl.pistachio": "Pistachio",
+  "dog.classical.variant.compl.guacamole": "Guacamole",
+  "dog.classical.variant.compl.vscode": "VSCode",
   "doggytalents.whistle.short": "Whistle Short",
   "doggytalents.whistle.long": "Whistle Long",
-
   "dogcommand.come": "Stand!",
   "dogcommand.stay": "Stay!",
   "dogcommand.ok": "Okay!",
@@ -488,10 +456,9 @@
   "dogcommand.heel_by_name": "%s, Heel!",
   "dogcommand.heel_by_group": "%s, Heel!",
   "dogcommand.ride_with_me": "%s, Get on Buddy!",
-
+  "dogcommand.all_stand_switch_mode": "All standing Dog switch to %s!",
   "doggytalents.screen.whistler.screen.help_title": "Whistle Mode Select",
   "doggytalents.screen.whistler.screen.help": "Use the Up and Down arrow to select the mode you want to set the Whistle to. You can also type to search. Press Enter to finish the command. Additionally, you can quick select a mode by pressing its corresponding number key shown before the name in Orange. Esc to Cancel.",
-
   "doggytalents.screen.whistler.heel_by_name.show_uuid": "Show UUID",
   "doggytalents.screen.whistler.heel_by_name.hide_uuid": "Hide UUID",
   "doggytalents.screen.whistler.heel_by_name.help_title": "Heel By Name Help",
@@ -511,25 +478,20 @@
   "doggytalents.screen.heel_by_group.help_title": "Heel By Group",
   "doggytalents.screen.heel_by_group.help": "Use the Up and Down arrow to select the group you want to heel. Type to search for the group by name. Press Enter to finish the command. Esc to Cancel.",
   "doggytalents.screen.heel_by_group.no_group_found": "No Group Found.",
-
   "amnesia_bone_gui.navbar.general": "General",
   "amnesia_bone_gui.navbar.talents": "Talents",
-
   "doggui.common.apply": "Apply",
   "doggui.common.go_back": "Go back",
-
   "doggui.navbar.home": "Home",
   "doggui.navbar.talents": "Talents",
   "doggui.navbar.style": "Style",
   "doggui.navbar.stats": "Stats",
-
   "doggui.home.name": "Name:",
   "doggui.home.edit_info": "Edit Info",
   "doggui.home.edit_info.substitude_name": "Will be: %s",
   "doggui.home.artifacts": "Doggy Artifacts",
   "doggui.home.artifacts.your_artifacts": "Your Doggy Artifacts",
   "doggui.home.artifacts.no_artifacts_in_inv": "Your Doggy Artifacts will show up here.",
-
   "doggui.talents.no_talents_selected": "Select a Talent to start.",
   "doggui.talents.current_talent_level": "Current Level: ",
   "doggui.talents.cost": "Cost: ",
@@ -538,7 +500,6 @@
   "doggui.talents.train": "Train",
   "doggui.talents.invalid.disabled": "This talents is disabled.",
   "doggui.talents.invalid.not_eligible": "This talent is not eligible.",
-
   "doggui.style.accessories": "Accessories",
   "doggui.style.accessories.your_accessories": "Your Accessories",
   "doggui.style.accessories.no_accessories_in_inv": "Your Accessories will show up here.",
@@ -550,7 +511,6 @@
   "doggui.style.skins.accessory_state.1": "This model is not compatible with Accessories.",
   "doggui.style.skins.accessory_state.2": "This model is recommended for Accessories!",
   "doggui.style.skins.accessory_state.3": "This model is compatible with some Accessories.",
-
   "doggui.stats.general": "General",
   "doggui.stats.general.damageDealt": "Damage dealt",
   "doggui.stats.general.distanceInWater": "Distance In Water",
@@ -561,7 +521,6 @@
   "doggui.stats.general.distanceWalking": "Distance Walking",
   "doggui.stats.mob_kills": "Mob Kills",
   "doggui.stats.mob_kills.no_kills": "%s did not kill any mobs.",
-
   "doggui.invalid_dog.incapacitated.title": "Dog is Injured!",
   "doggui.invalid_dog.incapacitated.subtitle": "Don't worry! %s just need some rest. Take good care of %s and %s will get right back on %s feet!",
   "doggui.invalid_dog.incapacitated.show_cause": "Show Cause",
@@ -571,7 +530,6 @@
   "doggui.invalid_dog.info.owner": "Owner: %s",
   "doggui.invalid_dog.esc_to_return": "Esc to return.",
   "doggui.invalid_dog.accessory_no_render_warn": "Some Accessories are not compatible and will not be rendered!",
-
   "doggui.prevpage": "Previous Page",
   "doggui.nextpage": "Next Page",
   "doggui.newname": "New name:",
@@ -604,7 +562,6 @@
   "doggui.owner.you": "You",
   "doggui.age.baby": "Puppy",
   "doggui.age.adult": "Adult",
-
   "doggui.detrain.talents.insufficent_xp": "Insufficent XP",
   "doggui.detrain.talents.no_level": "De-trained",
   "doggui.detrain.talents.detrain": "De-train",
@@ -625,13 +582,11 @@
   "doggui.force_migrate_owner.confirm.subtitle": "You will now be the Owner of %s, proceed?",
   "block.doggytalents.food_bowl.pro_tip.title": "Pro Tip",
   "block.doggytalents.food_bowl.pro_tip.desc": "The recommended way to automatically feed your dog is by utilizing a PackPuppy Dog as a Shared Food Source for all of your other dogs!",
-
   "key.categories.doggy_talents": "Doggy Talents Next",
   "key.whistle.1": "Whistle #1",
   "key.whistle.2": "Whistle #2",
   "key.whistle.3": "Whistle #3",
   "key.whistle.4": "Whistle #4",
-
   "dogradar.north": "**** %s is %d blocks North ****",
   "dogradar.north.east": "**** %s is %d blocks roughly North East ****",
   "dogradar.north.west": "**** %s is %d blocks roughly North West ****",
@@ -644,7 +599,6 @@
   "dogradar.errornoradio": "**** Remember to put radio collar on your Dog ****",
   "dogradar.errornull": "**** No Dogs found in %s! ****",
   "dogradar.errorown": "**** You do not own %s! Please ensure that you have permission to interact with %d! ****",
-
   "title.doggytalents.config": "Doggy Talents Next Configurations",
   "modgui.config.doggysettings": "Dog Behavior Settings",
   "modgui.config.doggysettings.tooltip": "Change certain behaviors of Dogs.",
@@ -652,7 +606,6 @@
   "modgui.config.general.tooltip": "General settings for the mod",
   "modgui.config.talents": "Talents",
   "modgui.config.talents.tooltip": "Enable and Disable talents",
-
   "commands.dogrespawn.uuid.success": "Summoned %s from the Ark Of Yamato.",
   "commands.dogrespawn.uuid.failure": "Failed to rise %s from the Ark Of Yamato.",
   "command.dogrespawn.imprecise": "\"%s\" is ambiguous. Consider providing the Dog's UUID as an extra argument.",
@@ -666,7 +619,6 @@
   "dogbed.explain.missing": "This item has likely be spawned in directly!",
   "dogbed.casing.title": "Casing:",
   "dogbed.bedding.title": "Bedding:",
-
   "doggytalents.music.bwv_849_fugue_kimiko": "J.S. Bach - WTC I: Fugue in C# Minor (Kimiko Ishizaka)",
   "item.doggytalents.disc_bwv_849_fugue": "Music Disc",
   "item.doggytalents.disc_bwv_849_fugue.desc": "J.S. Bach - WTC I: Fugue in C# Minor (Kimiko Ishizaka)",
@@ -679,7 +631,6 @@
   "doggytalents.music.chopin_op64_no1": "F. Chopin - Valse Du Petit Chien (DashieDev)",
   "item.doggytalents.disc_chopin_op64_no1": "Music Disc",
   "item.doggytalents.disc_chopin_op64_no1.desc": "F. Chopin - Valse Du Petit Chien (DashieDev)",
-
   "advancements.doggytalents.train_dog_hajimemashite.title": "Hajimemashite, Buddy!",
   "advancements.doggytalents.train_dog_hajimemashite.description": "Train your first dog!",
   "advancements.doggytalents.doggy_charm_summon.title": "Ah, you scared me!",
@@ -695,6 +646,5 @@
   "advancements.doggytalents.the_best_dogtor.title": "The Best Dog-tor!",
   "advancements.doggytalents.the_best_dogtor.description": "Help your injured dog heal under the best conditions.",
   "advancements.doggytalents.whole_pack_ossia.title": "The Whole Pack - Ossia",
-
   "effect.doggytalents.natto_bite": "Natto Bite"
 }
