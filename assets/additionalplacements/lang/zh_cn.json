@@ -9,7 +9,7 @@
 	"msg.additionalplacements.generate.failure.initialization": "Error generating datapack: failed to initialize datapack",
 	"msg.additionalplacements.generate.success": "Finished exporting tags",
 	"key.categories.additionalplacements": "Additional Placements",
-	"key.additionalplacements.placement_toggle": "Toggle placement logic",
-	"msg.additionalplacements.placement_enable": "Additional Placements placement logic enabled",
-	"msg.additionalplacements.placement_disable": "Additional Placements placement logic disabled"
+	"key.additionalplacements.placement_toggle": "开启放置逻辑",
+	"msg.additionalplacements.placement_enable": "高级放置逻辑开启",
+	"msg.additionalplacements.placement_disable": "高级放置逻辑关闭"
 }

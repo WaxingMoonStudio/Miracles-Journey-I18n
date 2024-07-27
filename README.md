@@ -8,7 +8,7 @@
 
 ## 分类详情
 
-冒险类 --- 96 / 96 | ✅：95 / ❗：1 / ❕：0 | 汉化率：**98.96**%
+冒险类 --- 95 / 95 | ✅：93 / ❗：2 / ❕：0 | 汉化率：**97.89**%
 
 ```
 [Adventure][AlexsMobs]✅
@@ -108,7 +108,7 @@
 [Adventure][YUNGsExtras]✅
 ```
 
-农业类 --- 63 / 63 | ✅：61 / ❗：2 / ❕：0 | 汉化率：**96.83**%
+农业类 --- 63 / 63 | ✅：63 / ❗：0 / ❕：0 | 汉化率：**100.00**%
 
 ```
 [Agriculture][AbnormalsDelight]✅
@@ -130,9 +130,9 @@
 [Agriculture][CrabbersDelight]✅
 [Agriculture][CreateBitterballen]✅
 [Agriculture][CreateCafe]✅
-[Agriculture][CreateDeepfried]❕
+[Agriculture][CreateDeepfried]✅
 [Agriculture][CreateFactory]✅
-[Agriculture][CreateGarnished]❗
+[Agriculture][CreateGarnished]✅
 [Agriculture][CuisineDelight]✅
 [Agriculture][CulturalDelights]✅
 [Agriculture][Delightful]✅
@@ -143,7 +143,7 @@
 [Agriculture][ExtraDelight]✅
 [Agriculture][FarmersDelight]✅
 [Agriculture][FarmersRespite]✅
-[Agriculture][FarmingForBlockheads]❗
+[Agriculture][FarmingForBlockheads]✅
 [Agriculture][GalosphereDelight]✅
 [Agriculture][LetsDoBakery]✅
 [Agriculture][LetsDoCandlelight]✅
@@ -168,7 +168,7 @@
 [Agriculture][SomeAssemblyRequired]✅
 [Agriculture][SpiceOfLifeApplePieEdition]✅
 [Agriculture][SushiGoCrafting]✅
-[Agriculture][TofuCraftReload]❗
+[Agriculture][TofuCraftReload]✅
 [Agriculture][TofuCreate]✅
 [Agriculture][TofuDelight]✅
 [Agriculture][UndergardenDelight]✅
@@ -179,7 +179,7 @@
 辅助类 --- 143 / 143 | ✅：128 / ❗：8 / ❕：7 | 汉化率：**89.51**%
 
 ```
-[Assist][AdditionalPlacements]❕
+[Assist][AdditionalPlacements]✅
 [Assist][AdvancementPlaques]✅
 [Assist][AiImprovements]✅
 [Assist][AlmostUnified]✅
@@ -202,11 +202,11 @@
 [Assist][CITReforged]✅
 [Assist][ClickableAdvancements]✅
 [Assist][Clumps]✅
-[Assist][Companion]❕
-[Assist][Configured]❗
+[Assist][Companion]✅
+[Assist][Configured]✅
 [Assist][ContingameIME]✅
 [Assist][Controlling]✅
-[Assist][CreateTrainPerspective]❕
+[Assist][CreateTrainPerspective]✅
 [Assist][CrosshairBobbing]✅
 [Assist][CurioOfUndying]✅
 [Assist][CuriousElytra]✅
@@ -215,7 +215,7 @@
 [Assist][DeathQuotes]✅
 [Assist][DespawnTweaker]✅
 [Assist][DirectionalDamageIndicator]✅
-[Assist][DrippyLoadingScreen]❗
+[Assist][DrippyLoadingScreen]✅
 [Assist][EasyAnvils]✅
 [Assist][EasyMagic]✅
 [Assist][EatingAnimation]✅
@@ -226,14 +226,14 @@
 [Assist][EnchantmentDescriptions]✅
 [Assist][EntityCollisionFpsFix]✅
 [Assist][EntityCulling]✅
-[Assist][EntityModelFeatures]❗
-[Assist][EntityTextureFeatures]❗
+[Assist][EntityModelFeatures]✅
+[Assist][EntityTextureFeatures]✅
 [Assist][ExtraSounds]✅
 [Assist][ExtremeSoundMuffler]✅
 [Assist][FastFurnace]✅
 [Assist][FastPaintings]✅
 [Assist][FastSuite]✅
-[Assist][FastWorkbench]❕
+[Assist][FastWorkbench]✅
 [Assist][FerriteCore]✅
 [Assist][FixGpuMemoryLeak]✅
 [Assist][FTBBackups2]✅
@@ -248,7 +248,7 @@
 [Assist][ItemHighlighter]✅
 [Assist][ItemPhysicLite]✅
 [Assist][ItemZoom]✅
-[Assist][Jade]❗
+[Assist][Jade]✅
 [Assist][JadeAddons]❕
 [Assist][JustEnoughCharacters]✅
 [Assist][JustEnoughItems]✅
